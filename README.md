@@ -15,4 +15,4 @@ Key requirement: Company needs documentation that salaried employees did or did 
 - Needs to be documented if employee did not log overtime
 
 ## UI: 
-Bootstrap -> formatting
+- Bootstrap -> formatting
