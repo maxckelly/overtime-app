@@ -5,7 +5,7 @@ Key requirement: Company needs documentation that salaried employees did or did 
 ## Models
 - Post -> date:date rationale:text
 - User -> Devise
-- AdminUser -> STI
+- AdminUser -> STI (Single Table Inheritance)
 
 ## Features: 
 - Approval Workflow
